@@ -7,7 +7,7 @@ set number
 set hlsearch
 set ruler
 set autoindent
-highlight Commment ctermfg=green
+highlight Comment ctermfg=green
 map s <nop>
 map S :w<CR>
 map Q :q<CR>
